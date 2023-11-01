@@ -1,0 +1,33 @@
+.Container{
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgb(0,0,0,0.2);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+} 
+.form-control{
+    margin-bottom: 15px;
+    border-radius: 5px;
+    width: 400px;
+}
+.btn-primary{
+    background-color: rgb(22, 76, 192);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
